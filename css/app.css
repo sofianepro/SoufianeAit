@@ -11103,8 +11103,7 @@ body {
   min-height: 420px;
   margin: auto;
   position: relative;
-  z-index: 9;
-  top: 15%;
+  z-index: 999;
 }
 
 @media (max-width: 768px) {

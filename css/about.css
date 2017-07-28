@@ -76,15 +76,15 @@
 }
 
 @media (max-width: 768px) {
-  .mycontainer {
-    background-color: transparent !important;
-  }
   .intro {
     height: 100% !important;
     padding-top: 100px;
   }
   .intro .overlay {
     height: 100%;
+  }
+  .intro .mycontainer {
+    background-color: transparent !important;
   }
   .about {
     padding: 10px;
